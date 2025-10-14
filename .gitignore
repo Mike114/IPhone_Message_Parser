@@ -1,0 +1,30 @@
+# Database files
+*.abcddb
+*.db
+*.sqlitedb 
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Claude Code settings
+.claude/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+build/
+dist/
+*.spec

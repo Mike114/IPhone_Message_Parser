@@ -1,0 +1,5 @@
+# Contact fallback mappings
+# Format: phone_number = Contact Name
+# Example:
+# +1234567890 = John Doe
+# 5551234567 = Jane Smith
